@@ -1,0 +1,37 @@
+#######################################
+# Syntax Coloring Map For TimerOne
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+Timer1	KEYWORD1
+
+#######################################
+# Instances (KEYWORD2)
+#######################################
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+init	KEYWORD2
+setPeriod	KEYWORD2
+start	KEYWORD2
+stop	KEYWORD2
+setPwmDuty	KEYWORD2
+pwm	KEYWORD2
+disablePwm	KEYWORD2
+attachInterrupt	KEYWORD2
+detachInterrupt	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+TIMER1_RESOLUTION	LITERAL1
+
+#######################################
+# Built-In Variables (LITERAL2)
+#######################################

@@ -10,6 +10,10 @@
 
 A set of functions for setting-up and controling Timer 1 on AVR MCU's.
 
+<img src="extras/images/16_bit_timer_block_diagram.png" alt="16-BIT Timer Block Diagram" width="500" height="500">
+
+Source: [ATmega328P DATASHEET](http://www.atmel.com/Images/Atmel-42735-8-bit-AVR-Microcontroller-ATmega328-328P_datasheet.pdf)
+
 ## LICENSE
 
 [The MIT License (MIT)](https://opensource.org/licenses/MIT)
