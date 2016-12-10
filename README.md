@@ -8,7 +8,7 @@
 
 ## INTRODUCTION
 
-A set of functions for setting-up and controling Timer 1 on AVR MCU's.'
+A set of functions for setting-up and controling Timer 1 on AVR MCU's.
 
 ## LICENSE
 
